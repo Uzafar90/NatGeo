@@ -1,6 +1,6 @@
 # National Geographics
 
-### A hero section of the national geoprahics homepage developed with HTMl and CSS.
+### A modernize hero section of the national geoprahics homepage developed with HTMl and CSS.
 <br/>
 <img align="center" src="https://github.com/Uzafar90/NatGeo/blob/master/natgeo.png"/>
 <br/>
